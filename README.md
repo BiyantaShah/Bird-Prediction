@@ -1,6 +1,4 @@
 # Bird-Prediction
-There are inputs provided with only 1 lakh records. The original files have not been uploaded.
-
 
 #STANDALONE MODE
 
